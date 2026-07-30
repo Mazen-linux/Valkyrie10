@@ -22,6 +22,7 @@ Engineered for performance, optimized for gaming, and designed for users who wan
 
 - Windows Defender
  You are responsible for securing your own system.
+
 - Windows Update
 - Microsoft Edge
 - Unnecessary services and telemetry  
