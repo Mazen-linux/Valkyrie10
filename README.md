@@ -105,6 +105,6 @@ Please include:
 
 # License
 
-The files in this repository are licensed under the **MIT License**.
+The files in this repository are licensed under the **MIT License** .
 
 This license applies **only** to the contents of this repository (documentation, scripts, configuration, etc.) and **does not apply to Microsoft Windows**, which remains proprietary software owned by Microsoft.
