@@ -42,9 +42,9 @@ Do **not** install this on a machine you depend on for work, school, or importan
 
 ### Some language packs are unavailable
 
-A small number of language packs were accidentally removed during development.
+ A small number of language packs were accidentally removed during development.
 
-Most common languages are unaffected, but some optional language packs may not install.
+ Most common languages are unaffected, but some optional language packs may not install.
 
 
 # FAQ
