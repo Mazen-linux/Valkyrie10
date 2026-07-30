@@ -21,6 +21,7 @@ Engineered for performance, optimized for gaming, and designed for users who wan
 # What is disabled?
 
 - Windows Defender
+
  You are responsible for securing your own system.
 
 - Windows Update
