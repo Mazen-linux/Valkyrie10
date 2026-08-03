@@ -14,9 +14,12 @@ Engineered for performance, optimized for gaming, and designed for users who wan
 
 # Features
 
-- No edge🎉 
+- No edge🎉
+   
 *To install a browser either load a USB with .EXE file or use winget
+
 *To install winget use (Invoke-WebRequest https://raw.githubusercontent.com/asheroto/winget-installer/master/winget-install.ps1 -UseBasicParsing | iex)
+
 *For brave with winget use (winget install --id Brave.Brave -e)
 - Aggressive debloating
 - Most Windows telemetry removed or disabled
