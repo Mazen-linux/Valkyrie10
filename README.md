@@ -26,6 +26,7 @@ Engineered for performance, optimized for gaming, and designed for users who wan
 - Reduced background services and scheduled tasks
 - Lower RAM and CPU usage
 - Faster boot and improved system responsiveness
+- Xbox services left intentionally for gaming purposes
 
 # What is disabled?
 
