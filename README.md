@@ -5,7 +5,7 @@
 Valkyrie10 is a customized version of Windows 10 that removes unnecessary components, background services, and telemetry. It offers a faster and more private Windows experience.
 
 Engineered for performance, optimized for gaming, and designed for users who want full control over Windows.
-[![Discord](https://img.shields.io/badge/DISCORD-JOIN%20COMMUNITY-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/cmYjdjDJzr)
+[![Discord](https://img.shields.io/badge/DISCORD-JOIN%20COMMUNITY-5865F2?logo=discord&logoColor=white&style=for-the-badge)]([https://discord.gg/pEpzsstsR]) 
 <img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-46-20" src="https://github.com/user-attachments/assets/9399615e-460c-466f-8cec-b8c8f1cbf497" />
 <img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-46-37" src="https://github.com/user-attachments/assets/e459f37f-2340-46ef-a9d6-0fea3e38b57e" />
 <img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-47-00" src="https://github.com/user-attachments/assets/ea82c565-4cde-418e-86ad-824b4c7fbc91" />
