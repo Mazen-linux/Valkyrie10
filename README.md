@@ -6,12 +6,18 @@ Valkyrie10 is a customized version of Windows 10 that removes unnecessary compon
 
 Engineered for performance, optimized for gaming, and designed for users who want full control over Windows.
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN%20COMMUNITY-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/cmYjdjDJzr)
-<img width="1903" height="960" alt="Valkyrie_2_" src="https://github.com/user-attachments/assets/48785361-13e4-48ed-a1bb-2616863c0898" />
-<img width="1154" height="866" alt="Valkyrie_1_" src="https://github.com/user-attachments/assets/2b613662-53c0-4f0b-93b7-52db33d862f5" />
+<img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-46-20" src="https://github.com/user-attachments/assets/9399615e-460c-466f-8cec-b8c8f1cbf497" />
+<img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-46-37" src="https://github.com/user-attachments/assets/e459f37f-2340-46ef-a9d6-0fea3e38b57e" />
+<img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-47-00" src="https://github.com/user-attachments/assets/ea82c565-4cde-418e-86ad-824b4c7fbc91" />
+<img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-47-41" src="https://github.com/user-attachments/assets/9bf707fd-c348-45bb-a2a2-c104f423a190" />
+<img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-50-41" src="https://github.com/user-attachments/assets/4ee507db-488d-48a2-ab8c-019ae020fe4f" />
 
 # Features
 
-- No edge🎉 (Screenshot containing edge was from an old version I won't release)
+- No edge🎉 
+*To install a browser either load a USB with .EXE file or use winget
+*To install winget use (Invoke-WebRequest https://raw.githubusercontent.com/asheroto/winget-installer/master/winget-install.ps1 -UseBasicParsing | iex)
+*For brave with winget use (winget install --id Brave.Brave -e)
 - Aggressive debloating
 - Most Windows telemetry removed or disabled
 - Reduced background services and scheduled tasks
