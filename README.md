@@ -9,7 +9,6 @@ Engineered for performance, optimized for gaming, and designed for users who wan
 <img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-46-20" src="https://github.com/user-attachments/assets/9399615e-460c-466f-8cec-b8c8f1cbf497" />
 <img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-46-37" src="https://github.com/user-attachments/assets/e459f37f-2340-46ef-a9d6-0fea3e38b57e" />
 <img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-47-00" src="https://github.com/user-attachments/assets/ea82c565-4cde-418e-86ad-824b4c7fbc91" />
-<img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-47-41" src="https://github.com/user-attachments/assets/9bf707fd-c348-45bb-a2a2-c104f423a190" />
 <img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-50-41" src="https://github.com/user-attachments/assets/4ee507db-488d-48a2-ab8c-019ae020fe4f" />
 
 # Features
