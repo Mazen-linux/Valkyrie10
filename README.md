@@ -58,6 +58,7 @@ Do **not** install this on a machine you depend on for work, school, or importan
  Most common languages are unaffected, but some optional language packs may not install.
 
 
+ *Will be fixed in Valkyrie v1.1*
 # FAQ
 
 ### Does Windows Update work?
