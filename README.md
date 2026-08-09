@@ -22,7 +22,7 @@ Engineered for performance, optimized for gaming, and designed for users who wan
 - Faster boot and improved responsiveness
 - Xbox services retained for gaming
 
-## To install a browser
+## Installing a browser
    
 *To install a browser either load a USB with .EXE file or use winget
 
@@ -32,7 +32,7 @@ Engineered for performance, optimized for gaming, and designed for users who wan
 *For brave with winget use 
 ```(winget install --id Brave.Brave -e)```
 
-# What is disabled?
+# What is disabled or removed?
 
 - Windows Defender
 
