@@ -13,7 +13,7 @@ Engineered for performance, optimized for gaming, and designed for users who wan
 
 # Features
 
-- No edge🎉
+- No edge
    
 *To install a browser either load a USB with .EXE file or use winget
 
