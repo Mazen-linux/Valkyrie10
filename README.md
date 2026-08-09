@@ -11,9 +11,18 @@ Engineered for performance, optimized for gaming, and designed for users who wan
 <img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-47-00" src="https://github.com/user-attachments/assets/ea82c565-4cde-418e-86ad-824b4c7fbc91" />
 <img width="1360" height="768" alt="Windows 10 x64-2026-08-03-20-50-41" src="https://github.com/user-attachments/assets/4ee507db-488d-48a2-ab8c-019ae020fe4f" />
 
-# Features
 
-- No edge
+## Features
+
+- Microsoft Edge removed
+- Aggressive system debloating
+- Most Windows telemetry removed or disabled
+- Reduced background services and scheduled tasks
+- Lower RAM and CPU usage
+- Faster boot and improved responsiveness
+- Xbox services retained for gaming
+
+## To install a browser
    
 *To install a browser either load a USB with .EXE file or use winget
 
@@ -22,12 +31,6 @@ Engineered for performance, optimized for gaming, and designed for users who wan
 
 *For brave with winget use 
 ```(winget install --id Brave.Brave -e)```
-- Aggressive debloating
-- Most Windows telemetry removed or disabled
-- Reduced background services and scheduled tasks
-- Lower RAM and CPU usage
-- Faster boot and improved system responsiveness
-- Xbox services left intentionally for gaming purposes
 
 # What is disabled?
 
@@ -56,7 +59,6 @@ Do **not** install this on a machine you depend on for work, school, or importan
  A small number of language packs were accidentally removed during development.
 
  Most common languages are unaffected, but some optional language packs may not install.
-
 
  *Will be fixed in Valkyrie v1.1*
 # FAQ
